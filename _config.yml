@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Yann Cébron"
 title_separator          : "-"
 name                     : "Yann Cébron"
-description              : "Personal webpage"
+description              : "Personal web page"
 url                      : "https://yanncebron.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "YannCebron/YannCebron.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -87,9 +87,9 @@ analytics:
 # Site Author
 author:
   name             : "Yann Cébron"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/yann.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software engineer by passion."
-  location         : "Hannover/Germany"
+  location         : "Hannover, Germany"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
