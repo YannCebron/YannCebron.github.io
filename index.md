@@ -1,9 +1,8 @@
 ---
 layout: single
 author_profile: true
+title: Welcome
 ---
-
-# Welcome
 
 Welcome to my little spot on the internet where I try to collect a few links and bits of what I do.
 
