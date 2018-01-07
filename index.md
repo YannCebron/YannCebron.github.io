@@ -3,10 +3,8 @@ layout: single
 author_profile: true
 ---
 
-## Welcome
-
-Welcome to my little spot on the internet.
+Welcome to my little spot on the internet where I try to collect a few links and bits of what I do.
 
 ### Organizations
-* [JUG Hannover](http://www.jug-h.de)
+* [Java User Hannover](http://www.jug-h.de)
 * [iJUG](http://ijug.eu/)
