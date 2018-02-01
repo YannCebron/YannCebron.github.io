@@ -8,4 +8,4 @@ Welcome to my little spot on the internet where I try to collect a few links and
 
 ### Organizations
 * [Java User Group Hannover](http://www.jug-h.de)
-* [iJUG](http://ijug.eu/)
+* [iJUG e.V](http://ijug.eu/)
