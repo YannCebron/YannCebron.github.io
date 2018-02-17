@@ -70,3 +70,10 @@ _with [Stéphane Nicoll](http://twitter.com/snicoll) (Pivotal)_
 
 #### Plug-in-Entwicklung für IntelliJ IDEA 
 * [JavaLand](https://www.javaland.eu) Brühl/Germany
+
+
+## Webinars
+
+#### Spring 4 and IntelliJ IDEA 13
+_with [Josh Long](https://twitter.com/starbuxman) (Pivotal)_
+[YouTube](https://www.youtube.com/watch?v=DOn1YS8Hx_Y)
