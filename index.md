@@ -74,6 +74,10 @@ _with [Stéphane Nicoll](http://twitter.com/snicoll) (Pivotal)_
 
 ## Webinars
 
+#### What's New in IntelliJ IDEA 2016.2 for Spring Developers
+_with [Stéphane Nicoll](http://twitter.com/snicoll) (Pivotal)_
+[YouTube](https://www.youtube.com/watch?v=Z9I59edQVuk)
+
 #### Spring 4 and IntelliJ IDEA 13
 _with [Josh Long](https://twitter.com/starbuxman) (Pivotal)_
 [YouTube](https://www.youtube.com/watch?v=DOn1YS8Hx_Y)
