@@ -20,7 +20,7 @@ Welcome to my little spot on the internet where I try to collect a few links and
 #### TBA
 * [Code Europe](https://www.codeeurope.pl/en) Krakow/Poland
 
-#### TBA
+#### Just one more thing with Spring in IntelliJ IDEA
 * [Devoxx France](http://devoxx.fr/) Paris/France
 
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
