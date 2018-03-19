@@ -17,11 +17,13 @@ Welcome to my little spot on the internet where I try to collect a few links and
 
 ### 2018
 
-#### TBA
-* [Code Europe](https://www.codeeurope.pl/en) Krakow/Poland
-
 #### Just one more thing with Spring in IntelliJ IDEA
+* [SpringCon.Tech](http://springcon.tech/) New Orleans/US
+* [Spring I/O](http://springio.net) Barcelona/Spain
 * [Devoxx France](http://devoxx.fr/) Paris/France
+
+#### IntelliJ IDEA & Co: Tips & Tricks unveiled
+* [Code Europe](https://www.codeeurope.pl/en) Krakow/Poland
 
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
 * [JUG Paderborn](https://jug-pb.gitlab.io/) Paderborn/Germany
