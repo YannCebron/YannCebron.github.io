@@ -19,7 +19,7 @@ Welcome to my little spot on the internet where I try to collect a few links and
 
 #### Just one more thing with Spring in IntelliJ IDEA
 * ~~[SpringCon.Tech](http://springcon.tech/) New Orleans/US~~ conference called
-* [Spring I/O](http://springio.net) Barcelona/Spain
+* [Spring I/O](http://springio.net) Barcelona/Spain _with [Stéphane Nicoll](http://twitter.com/snicoll) (Pivotal)_
 * [Devoxx France](http://devoxx.fr/) Paris/France
 
 #### IntelliJ IDEA & Co: Tips & Tricks unveiled
