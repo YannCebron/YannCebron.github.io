@@ -17,6 +17,7 @@ Welcome to my little spot on the internet where I try to collect a few links and
 
 ### 2019
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
+* [JUG Göttingen](http://java.de/roller/blog/page/stammtisch_goettingen) Göttingen/Germany
 * [JUG Hessen](https://www.jugh.de) Kassel/Germany
 
 
