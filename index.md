@@ -22,6 +22,9 @@ Welcome to my little spot on the internet where I try to collect a few links and
 * [JUG Hessen](https://www.jugh.de) Kassel/Germany
 * [Magdeburger Developer Days](https://www.md-devdays.de/) Magdeburg/Germany
 
+#### Tooling for IntelliJ Platform Plugins
+* [FOSDEM](https://fosdem.org/2019/) Brussels/Belgium
+
 
 ### 2018
 
