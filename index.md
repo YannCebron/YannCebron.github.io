@@ -11,6 +11,7 @@ Welcome to my little spot on the internet where I try to collect a few links and
 * [Java User Group Hannover](http://www.jug-h.de)
 * [iJUG e.V](http://ijug.eu)
 * [Kids4IT](https://www.kids4it.de)
+* [Freifunk Hannover](https://hannover.freifunk.net/)
 
 
 ## Talks
