@@ -20,7 +20,7 @@ Welcome to my little spot on the internet where I try to collect a few links and
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
 * [JUG Göttingen](http://java.de/roller/blog/page/stammtisch_goettingen) Göttingen/Germany
 * [JUG Mannheim](http://www.majug.de/) Mannheim/Germany
-* [JUG Hessen](https://www.jugh.de) Kassel/Germany
+* [JUG Hessen](https://www.jugh.de) Kassel/Germany - [YouTube Recording](https://www.youtube.com/watch?v=56nRtrmwdrE)
 * [Magdeburger Developer Days](https://www.md-devdays.de/) Magdeburg/Germany
 
 #### Tooling for IntelliJ Platform Plugins
