@@ -47,6 +47,7 @@ Welcome to my little spot on the internet where I try to collect a few links and
 * [MobCon Europe](https://mobcon.com) Sofia/Bulgaria
 
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
+* German: Article published in [Java aktuell 02-2017](https://drive.google.com/open?id=0BxhUUrkoZ7keTV9sSXJDUXRuUWM)
 * [JUG Karlsruhe](http://jug-karlsruhe.de) Karlsruhe/Germany
 * [JUG Darmstadt](https://www.jug-da.de) Darmstadt/Germany
 * [JUG Bielefeld](https://www.meetup.com/de-DE/Java-User-Group-Bielefeld) Bielefeld/Germany
