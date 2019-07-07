@@ -25,6 +25,7 @@ Welcome to my little spot on the internet where I try to collect a few links and
 
 #### Tooling for IntelliJ Platform Plugins
 * [FOSDEM](https://fosdem.org/2019/) Brussels/Belgium
+* [Oracle Code One](https://www.oracle.com/code-one/) San Francisco/USA
 
 
 ### 2018
