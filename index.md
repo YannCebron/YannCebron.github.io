@@ -22,6 +22,7 @@ Welcome to my little spot on the internet where I try to collect a few links and
 * [JUG Mannheim](http://www.majug.de/) Mannheim/Germany
 * [JUG Hessen](https://www.jugh.de) Kassel/Germany - [YouTube Recording](https://www.youtube.com/watch?v=56nRtrmwdrE)
 * [Magdeburger Developer Days](https://www.md-devdays.de/) Magdeburg/Germany
+* [JUG Nürnberg](https://www.meetup.com/de-DE/JUG-Nurnberg/) Nuremberg/Germany
 
 #### Tooling for IntelliJ Platform Plugins
 * [FOSDEM](https://fosdem.org/2019/) Brussels/Belgium
