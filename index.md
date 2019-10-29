@@ -29,7 +29,7 @@ Welcome to my little spot on the internet where I try to collect a few links and
 * [Oracle Code One](https://www.oracle.com/code-one/) San Francisco/USA
 
 #### IntelliJ IDEA & Co: Tips & Tricks unveiled
-* [code.talks](https://www.codetalks.com/) Hamburg/Germany
+* [code.talks](https://www.codetalks.com/) Hamburg/Germany - [YouTube Recording](https://www.youtube.com/watch?v=M0Ar4O90jYM)
 
 ### 2018
 
