@@ -6,6 +6,8 @@ title: Welcome
 
 Welcome to my little spot on the internet where I try to collect a few links and bits of what I do.
 
+_Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
+
 ## Organizations
 * [JavaForumNord](http://javaforumnord.de)
 * [Java User Group Hannover](http://www.jug-h.de)
