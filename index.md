@@ -20,7 +20,7 @@ _Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
 
 ### 2020
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
-* [JUG Essen](https://www.meetup.com/de-DE/JUG-Essen/) Göttingen/Germany
+* [JUG Essen](https://www.meetup.com/de-DE/JUG-Essen/) Essen/Germany
 
 ### 2019
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
