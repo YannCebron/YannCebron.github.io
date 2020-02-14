@@ -9,14 +9,18 @@ Welcome to my little spot on the internet where I try to collect a few links and
 _Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
 
 ## Organizations
-* [JavaForumNord](http://javaforumnord.de)
+* [JavaForumNord](https://javaforumnord.de)
 * [Java User Group Hannover](http://www.jug-h.de)
 * [iJUG e.V](http://ijug.eu)
 * [Kids4IT](https://www.kids4it.de)
 * [Freifunk Hannover](https://hannover.freifunk.net/)
 
 
-## Talks
+## Talks                        ˇ
+
+### 2020
+#### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
+* [JUG Essen](https://www.meetup.com/de-DE/JUG-Essen/) Göttingen/Germany
 
 ### 2019
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
