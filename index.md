@@ -19,11 +19,14 @@ _Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
 ## Talks                       
 
 ### 2020
+
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
 * [JUG Essen](https://www.meetup.com/de-DE/JUG-Essen/) Essen/Germany
 * [JUG Hannover](http://www.jug-h.de) Hannover/Germany
 
+
 ### 2019
+
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
 * [JUG Göttingen](http://java.de/roller/blog/page/stammtisch_goettingen) Göttingen/Germany
 * [JUG Mannheim](http://www.majug.de/) Mannheim/Germany
@@ -37,6 +40,7 @@ _Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
 
 #### IntelliJ IDEA & Co: Tips & Tricks unveiled
 * [code.talks](https://www.codetalks.com/) Hamburg/Germany - [YouTube Recording](https://www.youtube.com/watch?v=M0Ar4O90jYM)
+
 
 ### 2018
 
