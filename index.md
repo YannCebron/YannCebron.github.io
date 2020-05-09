@@ -11,12 +11,12 @@ _Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
 ## Organizations
 * [JavaForumNord](https://javaforumnord.de)
 * [Java User Group Hannover](http://www.jug-h.de)
-* [iJUG e.V](http://ijug.eu)
+* [iJUG e.V](https://ijug.eu)
 * [Kids4IT](https://www.kids4it.de)
 * [Freifunk Hannover](https://hannover.freifunk.net/)
 
 
-## Talks                        ˇ
+## Talks                       
 
 ### 2020
 #### IntelliJ IDEA Trickkiste - Ein Entwickler packt aus
