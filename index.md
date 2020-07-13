@@ -15,6 +15,8 @@ _Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
 * [Kids4IT](https://www.kids4it.de)
 * [Freifunk Hannover](https://hannover.freifunk.net/)
 
+## Plugins
+* [My Profile @ plugins.jetbrains.com](https://plugins.jetbrains.com/author/b8a90434-247c-41b0-983d-fc50e93e3209)
 
 ## Talks                       
 
