@@ -9,7 +9,7 @@ Welcome to my little spot on the internet where I try to collect a few links and
 _Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
 
 ## Organizations
-* [Java User Group Hannover](http://www.jug-h.de)
+* [Java User Group Hannover](https://www.meetup.com/de-DE/Java-User-Group-Hannover/)
 * [JavaForumNord](https://javaforumnord.de) 2015 — 2020
 * [iJUG e.V](https://ijug.eu)
 * [Kids4IT](https://www.kids4it.de)
