@@ -11,10 +11,8 @@ _Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
 ## Organizations
 
 * [Java User Group Hannover](https://www.meetup.com/de-DE/Java-User-Group-Hannover/)
-* [JavaForumNord](https://javaforumnord.de) 2015 — [2020](https://twitter.com/yanncebron/status/1371727357694857216)
 * [iJUG e.V](https://ijug.eu)
-* [Kids4IT](https://www.kids4it.de)
-* [Freifunk Hannover](https://hannover.freifunk.net/)
+* [JavaForumNord](https://javaforumnord.de) (2015 — [2020](https://twitter.com/yanncebron/status/1371727357694857216))
 
 ## Plugins
                 
