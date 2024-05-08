@@ -12,7 +12,7 @@ _Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
 
 * [Java User Group Hannover](https://www.meetup.com/de-DE/Java-User-Group-Hannover/)
 * [iJUG e.V](https://ijug.eu)
-* [JavaForumNord](https://javaforumnord.de) (2015 — [2020](https://twitter.com/yanncebron/status/1371727357694857216))
+* [JavaForumNord](https://javaforumnord.de) (2015 — 2020)
 
 ## Plugins
                 
