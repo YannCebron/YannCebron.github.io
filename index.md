@@ -18,12 +18,6 @@ _Dear recruiters, Thanks for stopping by, nothing to see here for you. Thanks._
                 
 [My plugins on JetBrains Marketplace](https://plugins.jetbrains.com/author/b8a90434-247c-41b0-983d-fc50e93e3209)
 
-[m68kplugin](https://github.com/YannCebron/m68kplugin)
-: Motorola 68000 Series Assembly Language Support
-
-[IntelliPikchr](https://github.com/YannCebron/IntelliPikchr)
-: Support [Pikchr](https://pikchr.org), a markup language for diagrams in technical documentation                   
-
 ## Talks
 
 ### 2019
